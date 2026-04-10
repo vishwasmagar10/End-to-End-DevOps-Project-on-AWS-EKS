@@ -109,9 +109,13 @@ http://a0d509e83c6cd4c1691fe719fe356ce3-1009129612.ap-south-1.elb.amazonaws.com/
 > Add these screenshots for better visibility:
 
 * ✅ Application UI (Running status page)
+  images/interface.png
 * ✅ ArgoCD Dashboard (Synced & Healthy)
+  images/argo.png
 * ✅ Grafana Dashboard (Metrics view)
+  images/grafana.png
 * ✅ Kubernetes Nodes (`kubectl get nodes`)
+  images/nodes.png
 
 ---
 
