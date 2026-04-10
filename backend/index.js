@@ -33,7 +33,7 @@ app.get("/", (req, res) => {
     </head>
     <body>
       <div class="card">
-        <h1> DevOps App Running v4</h1>
+        <h1> DevOps App Running Updated</h1>
         <div class="status">Healthy</div>
         <p class="info">Deployed on AWS EKS</p>
         <p class="info">Managed by ArgoCD (GitOps)</p>
